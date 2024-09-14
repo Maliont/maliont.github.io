@@ -6,6 +6,10 @@ export default defineNuxtConfig({
       meta: [
         { name: "viewport", content: "width=device-width, initial-scale=1" },
         {
+          name: "google-site-verification",
+          content: "uwnbhUSpJZkAIJqTBX2BtzkYQz4mjc39LbXkmoMAtas",
+        },
+        {
           name: "description",
           content: "Your favorite products from 2023",
         },
