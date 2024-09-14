@@ -10,6 +10,10 @@ export default defineNuxtConfig({
           content: "uwnbhUSpJZkAIJqTBX2BtzkYQz4mjc39LbXkmoMAtas",
         },
         {
+          name: "yandex-verification",
+          content: "73ec2ea07e6390d3",
+        },
+        {
           name: "description",
           content: "Your favorite products from 2023",
         },
