@@ -22,6 +22,7 @@ export default defineNuxtConfig({
       ],
     },
   },
+  plugins: ["~/plugins/yandex-metrika.js"],
 
   compatibilityDate: "2024-09-14",
 });
