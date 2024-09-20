@@ -277,7 +277,7 @@
       <div class="email-input">
         <form
           class="email-contact-form"
-          action="https://t.me/MaliontBot"
+          action="https://t.me/Maliont_Bot"
           method="post"
         >
           <input
@@ -1567,7 +1567,7 @@
           <div class="footer-column">
             <div class="link-group">
               <h3 class="link-group-title">Maliont</h3>
-              <a href="https://t.me/MaliontNews" class="footer-link"
+              <a href="https://t.me/Maliont_Bot" class="footer-link"
                 >Telegram</a
               >
               <a href="" class="footer-link">Discord</a>
