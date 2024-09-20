@@ -25,7 +25,7 @@ export default defineNuxtConfig({
 
   plugins: ["~/plugins/yandex-metrika.js", "~/plugins/maliont-default.js"],
   compatibilityDate: "2024-09-14",
-  modules: ["@nuxtjs/sitemap"],
+  modules: ["@nuxtjs/sitemap", "@nuxt/eslint"],
   site: {
     url: "https://maliont.github.io/",
     name: "Maliont | Your favorite products from 2023",
