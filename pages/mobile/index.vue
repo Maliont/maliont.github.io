@@ -1248,11 +1248,13 @@
           <div class="footer-column">
             <div class="link-group">
               <h3 class="link-group-title">Important information</h3>
-              <a href="/privacy-policy.pdf" class="footer-link">Terms of Use</a>
-              <a href="/user-agreement.pdf" class="footer-link"
+              <a href="docs/privacy-policy.pdf" class="footer-link"
+                >Terms of Use</a
+              >
+              <a href="docs/user-agreement.pdf" class="footer-link"
                 >User Agreement</a
               >
-              <a href="/payments.pdf" class="footer-link">Payment rules</a>
+              <a href="docs/payments.pdf" class="footer-link">Payment rules</a>
             </div>
           </div>
           <div class="footer-column">
