@@ -1587,8 +1587,8 @@
             <div class="link-group">
               <h3 class="link-group-title">Contacts</h3>
               <a href="" class="footer-link">Discord support channel</a>
-              <a href="mailto:help@maliont.ru" class="footer-link-email"
-                >help@maliont.ru</a
+              <a href="mailto:kuerton@yandex.ru" class="footer-link-email"
+                >kuerton@yandex.ru</a
               >
             </div>
           </div>
