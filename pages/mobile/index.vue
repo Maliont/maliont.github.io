@@ -1248,13 +1248,11 @@
           <div class="footer-column">
             <div class="link-group">
               <h3 class="link-group-title">Important information</h3>
-              <a href="../privacy-policy.pdf" class="footer-link"
-                >Terms of Use</a
-              >
-              <a href="../user-agreement.pdf" class="footer-link"
+              <a href="/privacy-policy.pdf" class="footer-link">Terms of Use</a>
+              <a href="/user-agreement.pdf" class="footer-link"
                 >User Agreement</a
               >
-              <a href="../payments.pdf" class="footer-link">Payment rules</a>
+              <a href="/payments.pdf" class="footer-link">Payment rules</a>
             </div>
           </div>
           <div class="footer-column">
@@ -1967,6 +1965,6 @@ footer p {
   font-family: Montserrat;
   font-style: normal;
   font-weight: 700;
-  src: url(../Montserrat-Bold.CyQ1bDzs.woff);
+  src: url(../Montserrat-Bold.woff);
 }
 </style>
