@@ -1,5 +1,7 @@
 {
-  "name": "nuxt-app",
+  "name": "maliont",
+  "description": "Maliont | Your favorite products from 2023",
+  "version": "0.0.9",
   "private": true,
   "type": "module",
   "scripts": {
