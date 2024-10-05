@@ -277,7 +277,7 @@
       <div class="email-input">
         <form
           class="email-contact-form"
-          action="https://t.me/Maliont_Bot"
+          action="https://maliont.github.io/invest"
           method="post"
         >
           <input
@@ -1239,9 +1239,7 @@
           <div class="footer-column">
             <div class="link-group">
               <h3 class="link-group-title">Maliont</h3>
-              <a href="https://t.me/Maliont_Bot" class="footer-link"
-                >Telegram</a
-              >
+              <a href="" class="footer-link">Telegram</a>
               <a href="" class="footer-link">Discord</a>
             </div>
           </div>
