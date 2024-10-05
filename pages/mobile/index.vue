@@ -277,7 +277,7 @@
       <div class="email-input">
         <form
           class="email-contact-form"
-          action="https://maliont.github.io/invest"
+          action="https://maliont.github.io/"
           method="post"
         >
           <input
