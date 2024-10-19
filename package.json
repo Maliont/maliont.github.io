@@ -1,0 +1,28 @@
+{
+  "name": "maliont",
+  "description": "Your favorite products from 2023",
+  "version": "1.0.0",
+  "author": "Maliont Development LLC",
+  "keywords": [
+    "Maliont",
+    "Kuerton"
+  ],
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxtjs/sitemap": "^6.1.2",
+    "firebase": "^10.14.1",
+    "gsap": "^3.12.5",
+    "nuxt": "^3.13.2",
+    "vue": "latest",
+    "vue-router": "latest"
+  },
+  "devDependencies": {}
+}
